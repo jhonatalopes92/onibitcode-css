@@ -1,0 +1,28 @@
+header {
+    text-align: center; /* alinhar o testo na tela*/
+    text-decoration: overline;/*decorar o texto com linhas */
+    text-transform: uppercase;/*colocar como maiuscula ou menuscula*/
+  }
+  
+  h1 {
+    font-family: cursive;/*mudar a font*/
+    font-weight: 100;/*mudar a espesura da letra*/
+  }
+  
+  h2 {
+    font-size: 16px;/*mudar o tamanho da letra*/
+    letter-spacing: 10px;/*espaçamento entre uma letra e outra*/
+    text-transform: uppercase;
+  }
+  
+  p {
+      font-family: sans-serif;/*colocado sem serifa*/
+  }
+  
+  .bold {
+    font-weight: 700;/*negrito*/
+  }
+  
+  .italic {
+    font-style: italic;/*italico*/
+  }
